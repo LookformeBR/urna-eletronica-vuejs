@@ -1,4 +1,9 @@
-# urna-eletronica
+# Urna Eletronica Com Vuejs
+
+## Este é um pequeno projeto onde foi construido uma urna eletronica com vuejs
+
+
+
 
 ## Project setup
 ```
