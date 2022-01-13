@@ -4,7 +4,7 @@
 
 Um simulador simples de urna eletrônica com o intuiuto de simulan uma votação real, está urna contem 4 candidatos sendo eles 2 prefeitos e 2 vereadores e com sons de uma urna real.<br/><br/>
 
- <img width="100%" style="border-radius: 5px" height="450" src="https://hylla.com.br/gif/urnaeletronica.gif" alt="Intro">
+ <img width="100%" style="border-radius: 5px" height="auto" src="https://hylla.com.br/gif/urnaeletronica.gif" alt="Intro">
 
 Prefeito Ash: 01 <br/>
 Prefeito Vegeta: 08<br/>
