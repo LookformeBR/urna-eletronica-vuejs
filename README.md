@@ -4,7 +4,7 @@
 
 Um simulador simples de urna eletrônica com o intuiuto de simulan uma votação real, está urna contem 4 candidatos sendo eles 2 prefeitos e 2 vereadores e com sons de uma urna real.
 
-Prefeito Ash: 01
+Prefeito Ash: 01 \n
 Prefeito Vegeta: 08
 Vereador Pikachu: 01234
 Vereador Goku: 08001
