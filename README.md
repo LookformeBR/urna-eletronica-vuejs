@@ -1,8 +1,8 @@
 # Urna Eletronica Com Vuejs
 
-## Este é um pequeno projeto onde foi construido uma urna eletronica com vuejs
+## Este é um pequeno projeto onde foi construído uma urna eletrônica com vuejs.
 
-Um simulador simples de urna eletrônica com o intuiuto de simulan uma votação real, está urna contem 4 candidatos sendo eles 2 prefeitos e 2 vereadores e com sons de uma urna real.<br/><br/>
+Um simulador simples de urna eletrônica com o intuito de simular uma votação real, está urna contem 4 candidatos sendo eles 2 prefeitos e 2 vereadores e com sons de uma urna real..<br/><br/>
 
  <img width="100%" style="border-radius: 5px" height="auto" src="https://hylla.com.br/gif/urnaeletronica.gif" alt="Intro">
 
